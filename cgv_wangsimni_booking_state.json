@@ -1,6 +1,6 @@
 {
   "schema": "CGV_WANGSIMNI_BOOKING_STATE_V1",
-  "updated_at_kst": "2026-08-31T17:00:59.688005+09:00",
+  "updated_at_kst": "2026-08-31T22:30:59.609433+09:00",
   "shows": {
     "0074|20260831|30001323|009|3|1420|IMAX": {
       "status": "OPEN",
@@ -19,8 +19,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1745",
-      "status_source": "frSeatCnt=15",
-      "updated_at_kst": "2026-08-31T17:00:31.543998+09:00"
+      "status_source": "frSeatCnt=26",
+      "updated_at_kst": "2026-08-31T17:56:32.515883+09:00"
     },
     "0074|20260831|30001323|009|5|2110|IMAX": {
       "status": "OPEN",
@@ -29,8 +29,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2110",
-      "status_source": "frSeatCnt=28",
-      "updated_at_kst": "2026-08-31T17:00:31.544016+09:00"
+      "status_source": "frSeatCnt=34",
+      "updated_at_kst": "2026-08-31T21:21:47.429589+09:00"
     },
     "0074|20260831|30001323|009|6|2435|IMAX": {
       "status": "OPEN",
@@ -39,8 +39,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2435",
-      "status_source": "frSeatCnt=80",
-      "updated_at_kst": "2026-08-31T17:00:31.544020+09:00"
+      "status_source": "frSeatCnt=100",
+      "updated_at_kst": "2026-08-31T22:26:52.395700+09:00"
     },
     "0074|20260901|30001323|009|1|0730|IMAX": {
       "status": "OPEN",
@@ -49,8 +49,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "0730",
-      "status_source": "frSeatCnt=82",
-      "updated_at_kst": "2026-08-31T17:00:45.468957+09:00"
+      "status_source": "frSeatCnt=81",
+      "updated_at_kst": "2026-08-31T22:30:53.966264+09:00"
     },
     "0074|20260901|30001323|009|2|1055|IMAX": {
       "status": "OPEN",
@@ -59,8 +59,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1055",
-      "status_source": "frSeatCnt=32",
-      "updated_at_kst": "2026-08-31T17:00:45.468975+09:00"
+      "status_source": "frSeatCnt=29",
+      "updated_at_kst": "2026-08-31T22:30:53.966285+09:00"
     },
     "0074|20260901|30001323|009|3|1420|IMAX": {
       "status": "OPEN",
@@ -69,8 +69,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1420",
-      "status_source": "frSeatCnt=24",
-      "updated_at_kst": "2026-08-31T17:00:45.468980+09:00"
+      "status_source": "frSeatCnt=23",
+      "updated_at_kst": "2026-08-31T22:30:53.966290+09:00"
     },
     "0074|20260901|30001323|009|4|1745|IMAX": {
       "status": "OPEN",
@@ -79,8 +79,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1745",
-      "status_source": "frSeatCnt=20",
-      "updated_at_kst": "2026-08-31T17:00:45.468983+09:00"
+      "status_source": "frSeatCnt=19",
+      "updated_at_kst": "2026-08-31T22:30:53.966293+09:00"
     },
     "0074|20260901|30001323|009|5|2110|IMAX": {
       "status": "OPEN",
@@ -89,8 +89,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2110",
-      "status_source": "frSeatCnt=26",
-      "updated_at_kst": "2026-08-31T17:00:45.468986+09:00"
+      "status_source": "frSeatCnt=25",
+      "updated_at_kst": "2026-08-31T22:30:53.966297+09:00"
     },
     "0074|20260901|30001323|009|6|2435|IMAX": {
       "status": "OPEN",
@@ -99,8 +99,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2435",
-      "status_source": "frSeatCnt=107",
-      "updated_at_kst": "2026-08-31T17:00:45.468989+09:00"
+      "status_source": "frSeatCnt=112",
+      "updated_at_kst": "2026-08-31T22:30:53.966299+09:00"
     },
     "0074|20260902|30001323|009|1|0730|IMAX": {
       "status": "OPEN",
@@ -109,8 +109,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "0730",
-      "status_source": "frSeatCnt=132",
-      "updated_at_kst": "2026-08-31T16:59:34.542974+09:00"
+      "status_source": "frSeatCnt=124",
+      "updated_at_kst": "2026-08-31T22:30:48.678542+09:00"
     },
     "0074|20260902|30001323|009|2|1055|IMAX": {
       "status": "OPEN",
@@ -119,8 +119,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1055",
-      "status_source": "frSeatCnt=57",
-      "updated_at_kst": "2026-08-31T16:59:34.542992+09:00"
+      "status_source": "frSeatCnt=58",
+      "updated_at_kst": "2026-08-31T22:30:48.678563+09:00"
     },
     "0074|20260902|30001323|009|3|1420|IMAX": {
       "status": "OPEN",
@@ -129,8 +129,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1420",
-      "status_source": "frSeatCnt=49",
-      "updated_at_kst": "2026-08-31T16:59:34.542996+09:00"
+      "status_source": "frSeatCnt=36",
+      "updated_at_kst": "2026-08-31T22:30:48.678568+09:00"
     },
     "0074|20260902|30001323|009|4|1745|IMAX": {
       "status": "OPEN",
@@ -139,8 +139,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1745",
-      "status_source": "frSeatCnt=39",
-      "updated_at_kst": "2026-08-31T16:59:34.542999+09:00"
+      "status_source": "frSeatCnt=35",
+      "updated_at_kst": "2026-08-31T22:30:48.678571+09:00"
     },
     "0074|20260902|30001323|009|5|2110|IMAX": {
       "status": "OPEN",
@@ -149,8 +149,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2110",
-      "status_source": "frSeatCnt=50",
-      "updated_at_kst": "2026-08-31T16:59:34.543003+09:00"
+      "status_source": "frSeatCnt=48",
+      "updated_at_kst": "2026-08-31T22:30:48.678574+09:00"
     },
     "0074|20260902|30001323|009|6|2435|IMAX": {
       "status": "OPEN",
@@ -159,8 +159,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2435",
-      "status_source": "frSeatCnt=163",
-      "updated_at_kst": "2026-08-31T16:59:34.543006+09:00"
+      "status_source": "frSeatCnt=143",
+      "updated_at_kst": "2026-08-31T22:30:48.678578+09:00"
     },
     "0074|20260903|30001323|009|1|0730|IMAX": {
       "status": "OPEN",
@@ -169,8 +169,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "0730",
-      "status_source": "frSeatCnt=118",
-      "updated_at_kst": "2026-08-31T17:00:03.827754+09:00"
+      "status_source": "frSeatCnt=109",
+      "updated_at_kst": "2026-08-31T22:29:44.193482+09:00"
     },
     "0074|20260903|30001323|009|2|1055|IMAX": {
       "status": "OPEN",
@@ -180,7 +180,7 @@
       "screen": "IMAX관",
       "time": "1055",
       "status_source": "frSeatCnt=51",
-      "updated_at_kst": "2026-08-31T17:00:03.827773+09:00"
+      "updated_at_kst": "2026-08-31T22:29:44.193504+09:00"
     },
     "0074|20260903|30001323|009|3|1420|IMAX": {
       "status": "OPEN",
@@ -189,8 +189,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1420",
-      "status_source": "frSeatCnt=52",
-      "updated_at_kst": "2026-08-31T17:00:03.827778+09:00"
+      "status_source": "frSeatCnt=48",
+      "updated_at_kst": "2026-08-31T22:29:44.193508+09:00"
     },
     "0074|20260903|30001323|009|4|1745|IMAX": {
       "status": "OPEN",
@@ -199,8 +199,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1745",
-      "status_source": "frSeatCnt=51",
-      "updated_at_kst": "2026-08-31T17:00:03.827782+09:00"
+      "status_source": "frSeatCnt=44",
+      "updated_at_kst": "2026-08-31T22:29:44.193512+09:00"
     },
     "0074|20260903|30001323|009|5|2110|IMAX": {
       "status": "OPEN",
@@ -210,7 +210,7 @@
       "screen": "IMAX관",
       "time": "2110",
       "status_source": "frSeatCnt=50",
-      "updated_at_kst": "2026-08-31T17:00:03.827785+09:00"
+      "updated_at_kst": "2026-08-31T22:29:44.193515+09:00"
     },
     "0074|20260903|30001323|009|6|2435|IMAX": {
       "status": "OPEN",
@@ -219,8 +219,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2435",
-      "status_source": "frSeatCnt=151",
-      "updated_at_kst": "2026-08-31T17:00:03.827788+09:00"
+      "status_source": "frSeatCnt=149",
+      "updated_at_kst": "2026-08-31T22:29:44.193518+09:00"
     },
     "0074|20260904|30001323|009|1|0730|IMAX": {
       "status": "OPEN",
@@ -229,8 +229,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "0730",
-      "status_source": "frSeatCnt=117",
-      "updated_at_kst": "2026-08-31T17:00:24.291534+09:00"
+      "status_source": "frSeatCnt=113",
+      "updated_at_kst": "2026-08-31T22:30:05.725758+09:00"
     },
     "0074|20260904|30001323|009|2|1055|IMAX": {
       "status": "OPEN",
@@ -239,8 +239,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1055",
-      "status_source": "frSeatCnt=42",
-      "updated_at_kst": "2026-08-31T17:00:24.291554+09:00"
+      "status_source": "frSeatCnt=44",
+      "updated_at_kst": "2026-08-31T22:30:05.725780+09:00"
     },
     "0074|20260904|30001323|009|3|1420|IMAX": {
       "status": "OPEN",
@@ -249,8 +249,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1420",
-      "status_source": "frSeatCnt=42",
-      "updated_at_kst": "2026-08-31T17:00:24.291558+09:00"
+      "status_source": "frSeatCnt=38",
+      "updated_at_kst": "2026-08-31T22:30:05.725784+09:00"
     },
     "0074|20260904|30001323|009|4|1745|IMAX": {
       "status": "OPEN",
@@ -259,8 +259,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1745",
-      "status_source": "frSeatCnt=15",
-      "updated_at_kst": "2026-08-31T17:00:24.291562+09:00"
+      "status_source": "frSeatCnt=16",
+      "updated_at_kst": "2026-08-31T22:30:05.725788+09:00"
     },
     "0074|20260904|30001323|009|5|2110|IMAX": {
       "status": "OPEN",
@@ -269,8 +269,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2110",
-      "status_source": "frSeatCnt=21",
-      "updated_at_kst": "2026-08-31T17:00:24.291565+09:00"
+      "status_source": "frSeatCnt=19",
+      "updated_at_kst": "2026-08-31T22:30:05.725791+09:00"
     },
     "0074|20260904|30001323|009|6|2435|IMAX": {
       "status": "OPEN",
@@ -279,8 +279,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2435",
-      "status_source": "frSeatCnt=52",
-      "updated_at_kst": "2026-08-31T17:00:24.291569+09:00"
+      "status_source": "frSeatCnt=54",
+      "updated_at_kst": "2026-08-31T22:30:05.725794+09:00"
     },
     "0074|20260905|30001338|002|3|1350|무대인사": {
       "status": "OPEN",
@@ -289,8 +289,8 @@
       "movie": "비광",
       "screen": "2관 (Laser)",
       "time": "1350",
-      "status_source": "frSeatCnt=33",
-      "updated_at_kst": "2026-08-31T17:00:47.294761+09:00"
+      "status_source": "frSeatCnt=30",
+      "updated_at_kst": "2026-08-31T22:30:55.163130+09:00"
     },
     "0074|20260905|30001338|004|3|1340|무대인사": {
       "status": "OPEN",
@@ -299,8 +299,8 @@
       "movie": "비광",
       "screen": "4관 (Laser)",
       "time": "1340",
-      "status_source": "frSeatCnt=93",
-      "updated_at_kst": "2026-08-31T17:00:47.294780+09:00"
+      "status_source": "frSeatCnt=89",
+      "updated_at_kst": "2026-08-31T22:30:55.163149+09:00"
     },
     "0074|20260905|30001338|004|4|1605|무대인사": {
       "status": "OPEN",
@@ -309,8 +309,8 @@
       "movie": "비광",
       "screen": "4관 (Laser)",
       "time": "1605",
-      "status_source": "frSeatCnt=75",
-      "updated_at_kst": "2026-08-31T17:00:47.294785+09:00"
+      "status_source": "frSeatCnt=67",
+      "updated_at_kst": "2026-08-31T22:30:55.163153+09:00"
     },
     "0074|20260905|30001350|005|2|1205|무대인사": {
       "status": "OPEN",
@@ -319,8 +319,8 @@
       "movie": "경주기행",
       "screen": "5관 (Laser)",
       "time": "1205",
-      "status_source": "frSeatCnt=156",
-      "updated_at_kst": "2026-08-31T17:00:47.294789+09:00"
+      "status_source": "frSeatCnt=157",
+      "updated_at_kst": "2026-08-31T22:30:55.163157+09:00"
     },
     "0074|20260905|30001350|007|2|1155|무대인사": {
       "status": "OPEN",
@@ -329,8 +329,8 @@
       "movie": "경주기행",
       "screen": "7관 (Laser)",
       "time": "1155",
-      "status_source": "frSeatCnt=183",
-      "updated_at_kst": "2026-08-31T17:00:47.294792+09:00"
+      "status_source": "frSeatCnt=179",
+      "updated_at_kst": "2026-08-31T22:30:55.163160+09:00"
     },
     "0074|20260905|30001350|007|3|1420|무대인사": {
       "status": "OPEN",
@@ -339,8 +339,8 @@
       "movie": "경주기행",
       "screen": "7관 (Laser)",
       "time": "1420",
-      "status_source": "frSeatCnt=167",
-      "updated_at_kst": "2026-08-31T17:00:47.294795+09:00"
+      "status_source": "frSeatCnt=161",
+      "updated_at_kst": "2026-08-31T22:30:55.163164+09:00"
     },
     "0074|20260905|30001323|009|1|0750|IMAX": {
       "status": "OPEN",
@@ -349,8 +349,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "0750",
-      "status_source": "frSeatCnt=24",
-      "updated_at_kst": "2026-08-31T17:00:47.294798+09:00"
+      "status_source": "frSeatCnt=18",
+      "updated_at_kst": "2026-08-31T22:30:55.163167+09:00"
     },
     "0074|20260905|30001323|009|2|1115|IMAX": {
       "status": "OPEN",
@@ -359,8 +359,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1115",
-      "status_source": "frSeatCnt=9",
-      "updated_at_kst": "2026-08-31T17:00:47.294801+09:00"
+      "status_source": "frSeatCnt=8",
+      "updated_at_kst": "2026-08-31T22:30:55.163170+09:00"
     },
     "0074|20260905|30001323|009|3|1440|IMAX": {
       "status": "OPEN",
@@ -369,8 +369,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1440",
-      "status_source": "frSeatCnt=3",
-      "updated_at_kst": "2026-08-31T17:00:47.294804+09:00"
+      "status_source": "frSeatCnt=4",
+      "updated_at_kst": "2026-08-31T22:30:55.163173+09:00"
     },
     "0074|20260905|30001323|009|4|1805|IMAX": {
       "status": "OPEN",
@@ -379,8 +379,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1805",
-      "status_source": "frSeatCnt=4",
-      "updated_at_kst": "2026-08-31T17:00:47.294807+09:00"
+      "status_source": "frSeatCnt=3",
+      "updated_at_kst": "2026-08-31T22:30:55.163176+09:00"
     },
     "0074|20260905|30001323|009|5|2130|IMAX": {
       "status": "OPEN",
@@ -390,7 +390,7 @@
       "screen": "IMAX관",
       "time": "2130",
       "status_source": "frSeatCnt=15",
-      "updated_at_kst": "2026-08-31T17:00:47.294809+09:00"
+      "updated_at_kst": "2026-08-31T22:30:55.163179+09:00"
     },
     "0074|20260905|30001323|009|6|2455|IMAX": {
       "status": "OPEN",
@@ -399,8 +399,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2455",
-      "status_source": "frSeatCnt=44",
-      "updated_at_kst": "2026-08-31T17:00:47.294812+09:00"
+      "status_source": "frSeatCnt=41",
+      "updated_at_kst": "2026-08-31T22:30:55.163182+09:00"
     },
     "0074|20260906|30001323|009|1|0730|IMAX": {
       "status": "OPEN",
@@ -409,8 +409,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "0730",
-      "status_source": "frSeatCnt=25",
-      "updated_at_kst": "2026-08-31T17:00:48.043368+09:00"
+      "status_source": "frSeatCnt=19",
+      "updated_at_kst": "2026-08-31T22:30:55.496164+09:00"
     },
     "0074|20260906|30001323|009|2|1055|IMAX": {
       "status": "OPEN",
@@ -419,8 +419,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1055",
-      "status_source": "frSeatCnt=20",
-      "updated_at_kst": "2026-08-31T17:00:48.043386+09:00"
+      "status_source": "frSeatCnt=15",
+      "updated_at_kst": "2026-08-31T22:30:55.496184+09:00"
     },
     "0074|20260906|30001323|009|3|1420|IMAX": {
       "status": "OPEN",
@@ -429,8 +429,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1420",
-      "status_source": "frSeatCnt=11",
-      "updated_at_kst": "2026-08-31T17:00:48.043391+09:00"
+      "status_source": "frSeatCnt=7",
+      "updated_at_kst": "2026-08-31T22:30:55.496188+09:00"
     },
     "0074|20260906|30001323|009|4|1745|IMAX": {
       "status": "OPEN",
@@ -439,8 +439,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1745",
-      "status_source": "frSeatCnt=15",
-      "updated_at_kst": "2026-08-31T17:00:48.043395+09:00"
+      "status_source": "frSeatCnt=13",
+      "updated_at_kst": "2026-08-31T22:30:55.496192+09:00"
     },
     "0074|20260906|30001323|009|5|2110|IMAX": {
       "status": "OPEN",
@@ -449,8 +449,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2110",
-      "status_source": "frSeatCnt=39",
-      "updated_at_kst": "2026-08-31T17:00:48.043398+09:00"
+      "status_source": "frSeatCnt=34",
+      "updated_at_kst": "2026-08-31T22:30:55.496196+09:00"
     },
     "0074|20260906|30001323|009|6|2435|IMAX": {
       "status": "OPEN",
@@ -459,8 +459,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2435",
-      "status_source": "frSeatCnt=168",
-      "updated_at_kst": "2026-08-31T17:00:48.043401+09:00"
+      "status_source": "frSeatCnt=160",
+      "updated_at_kst": "2026-08-31T22:30:55.496199+09:00"
     },
     "0074|20260907|30001323|009|1|0730|IMAX": {
       "status": "OPEN",
@@ -469,8 +469,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "0730",
-      "status_source": "frSeatCnt=146",
-      "updated_at_kst": "2026-08-31T17:00:48.792943+09:00"
+      "status_source": "frSeatCnt=139",
+      "updated_at_kst": "2026-08-31T22:30:56.223352+09:00"
     },
     "0074|20260907|30001323|009|2|1055|IMAX": {
       "status": "OPEN",
@@ -479,8 +479,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1055",
-      "status_source": "frSeatCnt=72",
-      "updated_at_kst": "2026-08-31T17:00:48.792962+09:00"
+      "status_source": "frSeatCnt=68",
+      "updated_at_kst": "2026-08-31T22:30:56.223373+09:00"
     },
     "0074|20260907|30001323|009|3|1420|IMAX": {
       "status": "OPEN",
@@ -489,8 +489,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1420",
-      "status_source": "frSeatCnt=65",
-      "updated_at_kst": "2026-08-31T17:00:48.792967+09:00"
+      "status_source": "frSeatCnt=54",
+      "updated_at_kst": "2026-08-31T22:30:56.223378+09:00"
     },
     "0074|20260907|30001323|009|4|1745|IMAX": {
       "status": "OPEN",
@@ -499,8 +499,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1745",
-      "status_source": "frSeatCnt=58",
-      "updated_at_kst": "2026-08-31T17:00:48.792970+09:00"
+      "status_source": "frSeatCnt=60",
+      "updated_at_kst": "2026-08-31T22:30:56.223382+09:00"
     },
     "0074|20260907|30001323|009|5|2110|IMAX": {
       "status": "OPEN",
@@ -509,8 +509,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2110",
-      "status_source": "frSeatCnt=74",
-      "updated_at_kst": "2026-08-31T17:00:48.792974+09:00"
+      "status_source": "frSeatCnt=66",
+      "updated_at_kst": "2026-08-31T22:30:56.223386+09:00"
     },
     "0074|20260907|30001323|009|6|2435|IMAX": {
       "status": "OPEN",
@@ -519,8 +519,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2435",
-      "status_source": "frSeatCnt=182",
-      "updated_at_kst": "2026-08-31T17:00:48.792977+09:00"
+      "status_source": "frSeatCnt=180",
+      "updated_at_kst": "2026-08-31T22:30:56.223390+09:00"
     },
     "0074|20260908|30001323|009|1|0730|IMAX": {
       "status": "OPEN",
@@ -529,8 +529,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "0730",
-      "status_source": "frSeatCnt=156",
-      "updated_at_kst": "2026-08-31T17:00:50.122402+09:00"
+      "status_source": "frSeatCnt=154",
+      "updated_at_kst": "2026-08-31T22:30:57.208351+09:00"
     },
     "0074|20260908|30001323|009|2|1055|IMAX": {
       "status": "OPEN",
@@ -539,8 +539,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1055",
-      "status_source": "frSeatCnt=71",
-      "updated_at_kst": "2026-08-31T17:00:50.122421+09:00"
+      "status_source": "frSeatCnt=67",
+      "updated_at_kst": "2026-08-31T22:30:57.208372+09:00"
     },
     "0074|20260908|30001323|009|3|1420|IMAX": {
       "status": "OPEN",
@@ -549,8 +549,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1420",
-      "status_source": "frSeatCnt=68",
-      "updated_at_kst": "2026-08-31T17:00:50.122426+09:00"
+      "status_source": "frSeatCnt=67",
+      "updated_at_kst": "2026-08-31T22:30:57.208377+09:00"
     },
     "0074|20260908|30001323|009|4|1745|IMAX": {
       "status": "OPEN",
@@ -559,8 +559,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "1745",
-      "status_source": "frSeatCnt=62",
-      "updated_at_kst": "2026-08-31T17:00:50.122429+09:00"
+      "status_source": "frSeatCnt=57",
+      "updated_at_kst": "2026-08-31T22:30:57.208380+09:00"
     },
     "0074|20260908|30001323|009|5|2110|IMAX": {
       "status": "OPEN",
@@ -570,7 +570,7 @@
       "screen": "IMAX관",
       "time": "2110",
       "status_source": "frSeatCnt=61",
-      "updated_at_kst": "2026-08-31T17:00:50.122433+09:00"
+      "updated_at_kst": "2026-08-31T22:30:57.208384+09:00"
     },
     "0074|20260908|30001323|009|6|2435|IMAX": {
       "status": "OPEN",
@@ -579,8 +579,8 @@
       "movie": "오디세이",
       "screen": "IMAX관",
       "time": "2435",
-      "status_source": "frSeatCnt=181",
-      "updated_at_kst": "2026-08-31T17:00:50.122436+09:00"
+      "status_source": "frSeatCnt=172",
+      "updated_at_kst": "2026-08-31T22:30:57.208387+09:00"
     }
   }
 }
